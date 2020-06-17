@@ -31,6 +31,7 @@ public class App
     	
     	session.save(sanket);
     	
+    	
     	tx.commit();
     	
     }
